@@ -7,7 +7,7 @@ Wortart: nm, adv, adj
 Wort mit Artikel: net
 Femininum / Plural: nette
 IPA: \nɛt\
-Definition: klar, deutlich
+Definition: klar; sauber
 Register: '' # Beispiel: ↘Sachtext ↗Mündlich
 
 # Beispielsätze müssen durch Zeilenumbrüche getrennt werden.
@@ -201,4 +201,6 @@ Beispielsätze: |-
 #   <div class="fr">Un homme et une femme.</div>
 #   <div class="de spoiler">Ein Mann und eine Frau.</div>
 # </div>
-Notiz: ''
+Notiz: |-
+  <!-- Grammar automatically added -->
+  <grammar data-id="Falsche Freunde"></grammar>
